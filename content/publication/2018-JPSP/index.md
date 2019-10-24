@@ -3,7 +3,7 @@
 
 title: "Social decoys: Leveraging choice architecture to alter social preferences"
 authors: [chang-l, cikara-m]
-date: 2018-10-23
+date: 2018-08-01
 doi: "10.1037/pspa0000117"
 
 # Schedule page publish date (NOT publication's date).
