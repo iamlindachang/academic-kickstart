@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Psychology
     institution: Harvard University
-    year: 2021 (expected)
+    year: 2021 (anticipated)
   - course: A.M. in Psychology
     institution: Harvard University
     year: 2017
