@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Linda W. Chang
+name: linda w. chang
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Social psychology Ph.D. student
+role: social psychology ph.d. student
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard University
+- name: harvard university
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
