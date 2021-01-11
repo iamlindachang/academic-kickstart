@@ -2,7 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Social decoys: Leveraging choice architecture to alter social preferences"
-authors: [chang-l, cikara-m]
+authors: 
+- admin
+- mina-cikara
 date: 2018-08-01
 doi: "10.1037/pspa0000117"
 

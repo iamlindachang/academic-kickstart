@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Comparing value coding models of context dependence in social choice"
-authors: [chang-l, gershman-s, cikara-m]
+authors: 
+- admin
+- Samuel J. Gershman
+- Mina Cikara
 date: 2019-08-05
 doi: "10.1016/j.jesp.2019.103847"
 

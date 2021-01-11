@@ -2,7 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Do dogs prefer helpers in an infant-based social evaluation task?"
-authors: [mcauliffe-k, bogese-m, chang-l, andrews-c, mayer-t, faranda-a, hamlin-k, santos-l]
+authors: 
+- Katherine McAuliffe
+- Michael Bogese
+- admin
+- Caitlin E. Andrews
+- Tanya Mayer
+- Aja Faranda
+- J. Kiley Hamilin
+- Laurie R. Santos
 date: 2019-03-29
 doi: "10.3389/fpsyg.2019.00591"
 

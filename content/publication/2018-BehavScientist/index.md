@@ -2,7 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Want to Debias Hiring? Change What Hiring Managers Focus On"
-authors: [chang-l, cikara-m]
+authors:
+- admin
+- Mina Cikara
 date: 2018-05-22
 doi: ""
 

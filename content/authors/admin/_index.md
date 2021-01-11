@@ -1,10 +1,10 @@
 ---
 # Display name
-name: linda w. chang
+title: "Linda W. Chang"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- admin
+- "admin"
 
 # Is this the primary user of the site?
 superuser: true

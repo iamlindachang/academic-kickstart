@@ -2,7 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Effects of intergroup threat on mind, brain, and behavior"
-authors: [chang-l, krosch-a, cikara-m]
+authors: 
+- admin
+- Amy R. Krosch
+- Mina Cikara
 date: 2016-06-16
 doi: "10.1016/j.copsyc.2016.06.004"
 
