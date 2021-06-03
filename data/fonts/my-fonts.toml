@@ -2,7 +2,8 @@
 name = "my-fonts"
 
 # Optional Google font URL
-google_fonts = "Carrois+Gothic+SC|Roboto:400,400italic,700|Roboto+Mono"
+# google_fonts = "Carrois+Gothic+SC|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "family=Carrois+Gothic+SC&family=Roboto+Mono&family=Roboto:ital@0;1"
 
 # Font families
 heading_font = "Carrois Gothic SC"
