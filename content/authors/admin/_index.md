@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Linda W. Chang"
+title: "linda w. chang, phd"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: social psychology ph.d. student
+role: (soon to be) postdoctoral research fellow
 
 # Organizations/Affiliations
 organizations:
-- name: harvard university
+- name: University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Intergroup processes
-- Social cognition
 - Judgment & decision-making
+- Social cognition
+- Organizational processes
 
 education:
   courses:
   - course: Ph.D. in Psychology
     institution: Harvard University
-    year: 2021 (anticipated)
+    year: 2021
   - course: A.M. in Psychology
     institution: Harvard University
     year: 2017
@@ -72,6 +72,8 @@ email: ""
 # - Visitors
 ---
 
-I am a doctoral student in the Psychology Department at Harvard University working in the [Intergroup Neuroscience Laboratory](http://http://www.intergroupneurosciencelaboratory.com/) directed by [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara). I investigate the psychological mechanisms underlying bias and discrimination in social decision-making. I am interested in creating scalable interventions to reduce harm and increase equity. Previously, I worked in the [Comparative Cognition Laboratory](https://caplab.yale.edu/) and [Canine Cognition Center](https://doglab.yale.edu/) directed by [Laurie Santos](https://psychology.yale.edu/people/laurie-santos).
+Beginning Fall 2021, I will be a [MindCORE](https://mindcore.sas.upenn.edu/) Postdoctoral Research Fellow at the University of Pennsylvania working in the [Operations, Information, and Decisions Department](https://oid.wharton.upenn.edu/) at Wharton with [Katy Milkman](https://oid.wharton.upenn.edu/profile/kmilkman/). I recently earned my PhD in Psychology from Harvard University working in the [Intergroup Neuroscience Laboratory](http://http://www.intergroupneurosciencelaboratory.com/) directed by [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara). Previously, I worked in the [Comparative Cognition Laboratory](https://caplab.yale.edu/) and [Canine Cognition Center](https://doglab.yale.edu/) directed by [Laurie Santos](https://psychology.yale.edu/people/laurie-santos).
+
+I investigate the psychological mechanisms underlying bias and discrimination in social decision-making. I aim to unpack why inequality persists in organizational contexts with the goal of creating and structuring decision processes to increase equity and inclusion.
 
 I am part of [The Rising Over Oppression Through Solidarity (ROOTS) Project, Inc.](http://inclusiveroots.org/), based in New Jersey. Our organization is dedicated to using a multidimensional approach with children, educators, and families to create a more equitable and inclusive society. Each summer, we hold a week-long residential program for high school students where we build community in order to develop tools to challenge bias, bullying, and oppression as well as create growth plans to catalyze change at personal, interpersonal, and systemic levels.
