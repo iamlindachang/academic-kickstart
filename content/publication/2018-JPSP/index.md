@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Social decoys: Leveraging choice architecture to alter social preferences"
-authors: 
-- admin
-- mina-cikara
+authors:
+- Linda W. Chang
+- Mina Cikara
 date: 2018-08-01
 doi: "10.1037/pspa0000117"
 

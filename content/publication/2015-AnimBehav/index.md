@@ -2,7 +2,7 @@
 title: "Capuchin monkeys, Cebus apella, show no evidence for inequity aversion in a costly choice task"
 authors:
 - Katherine McAuliffe
-- admin
+- Linda W. Chang
 - Kristin L. Leimgruber
 - Rebecca Spaulding
 - Peter R. Blake

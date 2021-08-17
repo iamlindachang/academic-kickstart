@@ -3,7 +3,7 @@
 
 title: "Want to Debias Hiring? Change What Hiring Managers Focus On"
 authors:
-- admin
+- Linda W. Chang
 - Mina Cikara
 date: 2018-05-22
 doi: ""

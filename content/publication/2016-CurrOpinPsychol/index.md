@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Effects of intergroup threat on mind, brain, and behavior"
-authors: 
-- admin
+authors:
+- Linda W. Chang
 - Amy R. Krosch
 - Mina Cikara
 date: 2016-06-16
